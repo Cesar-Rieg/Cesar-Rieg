@@ -15,5 +15,5 @@
   <img align="center" alt"Vuejs" src="https://img.shields.io/badge/Vue.js-239120?&style=for-the-badge"/>
 </div>
 
-![Snake animation](https://github.com/Cesar-Rieg/about/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Cesar-Rieg/Cesar-Rieg/blob/output/github-contribution-grid-snake.svg)
 
