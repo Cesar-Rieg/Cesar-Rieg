@@ -6,7 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-rieg/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:cesarjeanrieg97@gmail.com)
 
-  ![CesarRieg's GitHub status](https://github-readme-stats.vercel.app/api?username=Cesar-Rieg&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+  ![Cesar-Rieg's GitHub status](https://github-readme-stats.vercel.app/api?username=Cesar-Rieg&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
   #### Tecnologias que estou estudando:
   <div style="display: inline_block"><br/>
